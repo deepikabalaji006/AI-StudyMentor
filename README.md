@@ -41,3 +41,12 @@ fully account for individual circumstances, learning needs, or well-being. Alway
 use this tool as one input among many and seek support from teachers, guardians,
 or qualified professionals where needed.
 
+Deployment
+
+Streamlit Application:
+https://ai-studymentor-dvtqf2vwaynq6qdwtkiuxw.streamlit.app/
+
+Author
+
+Deepika Balaji
+
