@@ -356,7 +356,7 @@ It is designed to be transparent and understandable, not a black-box AI model.
             "to receive a personalized plan."
         )
 
-    # --- Ethical / Responsible Use Disclaimer ---
+
     st.markdown("---")
     st.caption(
         "Ethical disclaimer: This application provides **general educational guidance only**. "
