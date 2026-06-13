@@ -12,7 +12,7 @@ All logic is simple and transparent – there is **no model training** or extern
 
 ### Running the app locally
 
-1. Create and activate a virtual environment (optional but recommended).
+1. Create and activate a virtual environment (optional but recommended)
 2. Install dependencies:
 
 ```bash
