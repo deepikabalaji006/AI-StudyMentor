@@ -1,0 +1,39 @@
+{
+  "name": "ai-studymentor",
+  "description": "Cloud-Based AI-Powered Personalized Learning Guidance System using LangFlow, IBM watsonx.ai, and Granite Models",
+  "keywords": [
+    "AI",
+    "Education",
+    "LangFlow",
+    "IBM watsonx.ai",
+    "Granite",
+    "Streamlit",
+    "Python",
+    "SDG4"
+  ],
+  "website": "https://ai-studymentor-dvtqf2vwaynq6qdwtkiuxw.streamlit.app/",
+  "repository": "https://github.com/deepikabalaji006/AI-StudyMentor",
+  "logo": "https://www.herokucdn.com/deploy/button.svg",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "OPENAI_API_KEY": {
+      "description": "Optional API key for enhanced AI-powered recommendations",
+      "required": false
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "addons": [],
+  "scripts": {
+    "postdeploy": "echo AI StudyMentor deployed successfully"
+  },
+  "stack": "heroku-22"
+}
